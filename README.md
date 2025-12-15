@@ -54,7 +54,7 @@ Minimal implementation showing:
 
 ---
 
-## 🔒 Security Considerations
+## Security Considerations
 
 ### Why is the Storage Bucket Private?
 
